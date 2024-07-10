@@ -1,5 +1,5 @@
 import React from 'react';
-import DatePickers from './DatePickers'; // Шлях до вашого компонента
+import DatePickers from './DatePickers';
 
 class App extends React.Component {
   render() {
