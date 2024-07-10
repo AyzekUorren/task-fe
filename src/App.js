@@ -6,7 +6,7 @@ class App extends React.Component {
     return (
       <div>
         <h1>Date Picker Example</h1>
-        <DatePickers />
+        <DatePickers/>
       </div>
     );
   }
